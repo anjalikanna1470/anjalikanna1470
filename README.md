@@ -132,9 +132,9 @@ Replace the placeholders below with your username (anjalikanna1470).
 
 📫 Connect With Me
 
-GitHub: https://github.com/anjalikanna1470
+GitHub: [https://github.com/anjalikanna1470](https://github.com/anjalikanna1470)
 
-LinkedIn: ADD YOUR LINK
+LinkedIn: [LinkedIn](https://linkedin.com/in/anjalikanna1470)
 
 Portfolio: ADD YOUR PORTFOLIO
 
