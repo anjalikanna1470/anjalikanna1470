@@ -1,143 +1,194 @@
+<h1 align="center">Hi 👋, I'm Kanna Anjali</h1>
+
 <h3 align="center">
-
-Frontend Web Developer • Android (Kotlin) Developer • Exploring AgenticAI
-
+Frontend Web Developer • Android Developer • Exploring Agentic AI
 </h3>
 
 <p align="center">
-
-Building modern web applications, Android apps, and AI-poweredsolutions.
-
+Building modern web applications, Android applications, and AI-powered solutions with a focus on practical, real-world projects.
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Android+Developer+(Kotlin);Exploring+Agentic+AI;Building+Real-World+Projects;Always+Learning+New+Technologies" />{=html}
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;Android+Developer+%28Kotlin%29;Exploring+Agentic+AI;Building+Real-World+Projects;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
 </p>
 
-🚀 About Me
+---
 
-🎓 B.Tech (3rd Year)
+## 👩‍💻 About Me
 
-💻 Frontend Web Developer
+I'm a **3rd-year B.Tech Computer Science & Engineering student** passionate about building useful software and exploring emerging technologies.
 
-📱 Android Developer (Kotlin)
+* 🎓 B.Tech — Computer Science & Engineering
+* 💻 Frontend Web Developer
+* 📱 Android Developer using Kotlin
+* 🤖 Exploring **Agentic AI & AI-powered applications**
+* ⚙️ Interested in **Workflow Automation with n8n**
+* 🧠 Strengthening my knowledge of **DSA, OOP, DBMS & Computer Science fundamentals**
+* 🚁 Currently working on **AI Drone Real-Time Forest Fire Detection using YOLO11**
+* 🎯 Aspiring to build a career as a **Professional Software Developer**
 
-🤖 Exploring Agentic AI & Workflow Automation
+---
 
-🌲 Currently building AI Drone Real-Time Forest Fire Detectionusing YOLO11
+## 🛠️ Technical Skills
 
-📚 Learning DSA, Prompt Engineering and AI Applications
+### 💻 Programming Languages
 
-🎯 Goal: Become a Professional Software Developer
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,javascript,typescript" />
+</p>
 
-🛠️ Tech Stack
+### 🌐 Web Development
 
-Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,vite" />
+</p>
 
-C
+### 📱 Android & Backend Technologies
 
-Python
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,flutter" />
+</p>
 
-Java
+### 🤖 AI & Automation
 
-Kotlin
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-JavaScript
+**Agentic AI • Prompt Engineering • n8n • AI Application Development • Computer Vision**
 
-Frontend
+### 🧠 Computer Science
 
-HTML5
+**Data Structures & Algorithms • Object-Oriented Programming • DBMS**
 
-CSS3
+### 🔧 Tools & Platforms
 
-Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
 
-Responsive Design
+---
 
-CS Fundamentals
+## 🚀 Featured Projects
 
-DSA
+### 🚁 AI Drone — Real-Time Forest Fire Detection
 
-OOP
+**YOLO11 • Computer Vision • Drone • Raspberry Pi • Firebase • Android**
 
-DBMS
+An AI-powered drone system designed to detect **forest fires and smoke in real time** using computer vision and aerial imagery.
 
-AI & Automation
+> 🚧 **Status:** In Progress
 
-Prompt Engineering
+---
 
-Agentic AI
+### 🐟 Smart Biofloc Monitoring System
 
-n8n
+**IoT • Arduino • ESP8266 • Firebase • Android • Machine Learning**
 
-Tools
+An IoT-based monitoring system for tracking important **Biofloc water-quality parameters** in real time, with cloud-based data storage, historical monitoring, alerts, and ML-based prediction.
 
-Git
+---
 
-GitHub
+### 🩸 Blood Bridge
 
-VS Code
+**HTML • CSS • JavaScript • Responsive Web Design**
 
-Android Studio
+A web platform designed to connect **blood donors and recipients**, making it easier to find and communicate with potential donors.
 
-Firebase
+🔗 [View Project](https://anjalikanna1470.github.io/Blood-Bridge/)
 
-🌟 Featured Projects
+---
 
-🚁 AI Drone Real-Time Forest Fire Detection using YOLO11 (In Progress)
+### 🏫 College Website
 
-Real-time forest fire detection using drones and computer vision.
+**HTML • CSS • JavaScript • Bootstrap**
 
-🐟 Smart Biofloc IoT Monitoring System
+A responsive college website designed with a clean and accessible interface for presenting institutional information.
 
-IoT-based water quality monitoring with Firebase.
+🔗 [View Project](https://anjalikanna1470.github.io/College-Website/)
 
-🩸 Blood Bridge
+---
 
-Blood donor and recipient web platform.
+### 🔐 Digital Alert Door Lock
 
-🏫 College Website
+A smart security project focused on **digital access control and alert-based door security**.
 
-Responsive college website.
+---
 
-🔐 Digital Alert Door Lock
+### 🤖 Agentic AI Mini Applications
 
-Smart security project.
+Exploring practical applications of **Agentic AI, workflow automation, AI APIs, and intelligent task execution** through hands-on projects.
 
-🤖 Agentic AI Mini Apps
+---
 
-Academic AI automation applications.
+## 📚 Currently Learning
 
-🏅 Certifications
+```text
+DSA                    ███████████████░░░
+Agentic AI             ██████████████░░░░
+AI Application Dev     █████████████░░░░░
+Android Development    ██████████████░░░░
+Frontend Development   ████████████████░░
+Workflow Automation    █████████████░░░░░
+```
 
-EduSkills -- Python Full Stack Development Internship
+I'm continuously experimenting with new technologies and building projects to strengthen my software development skills.
 
-HackerRank -- CSS (Basic)
+---
 
-iDigitalPreneur -- Web Development
+## 🏅 Certifications & Internships
 
-be10X -- AI Tools & ChatGPT Workshop
+* 🐍 **Python Full Stack Development Internship** — EduSkills
+* 🎨 **CSS (Basic)** — HackerRank
+* 🌐 **Web Development** — iDigitalPreneur
+* 🤖 **AI Tools & ChatGPT Workshop** — be10X
 
-📊 GitHub Stats
+---
 
-Replace the placeholders below with your username (anjalikanna1470).
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalikanna1470&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalikanna1470&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikanna1470&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikanna1470&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anjalikanna1470&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anjalikanna1470&theme=tokyonight)
+---
 
-📫 Connect With Me
+## 🌐 Portfolio
 
-GitHub: [https://github.com/anjalikanna1470](https://github.com/anjalikanna1470)
+<p align="center">
+  <a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-LinkedIn: [LinkedIn](https://linkedin.com/in/anjalikanna1470)
+---
 
-Portfolio: ADD YOUR PORTFOLIO
+## 🤝 Let's Connect
 
-Email: anjalikanna1470@gmail.com
+<p align="center">
+  <a href="https://github.com/anjalikanna1470">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anjalikanna1470">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
+    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:anjalikanna1470@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-⭐ Thanks for visiting my profile!
+---
+
+<h3 align="center">✨ Building. Learning. Experimenting. Growing. ✨</h3>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
