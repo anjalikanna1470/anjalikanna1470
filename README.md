@@ -1,395 +1,420 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=210&section=header&text=KANNA%20ANJALI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Web%20Dev%20%7C%20Android%20%7C%20AI%20%7C%20Agentic%20AI&descAlignY=60&descColor=e8f4ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=230&section=header&text=KANNA%20ANJALI&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20AGENTIC%20AI%20%7C%20WEB%20%7C%20ANDROID&descAlignY=61&descColor=c8e7ff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=21\&pause=1000\&color=6C63FF\&center=true\&vCenter=true\&width=800\&lines=Frontend+Developer+%7C+Android+Developer;Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Agentic+AI+%26+Automation+%E2%9A%A1;IoT+%7C+Machine+Learning+%7C+Computer+Vision;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br>
 
-### Hi, I'm Kanna Anjali 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1200\&color=00C6FF\&center=true\&vCenter=true\&width=850\&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Agentic+AI+%26+Intelligent+Automation+%E2%9A%A1;Frontend+%7C+Android+%7C+Backend+%7C+AI;RAG+%7C+Computer+Vision+%7C+IoT;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p>
-<a href="https://github.com/anjalikanna1470">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br>
+
+<a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
+<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/anjalikanna1470">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:anjalikanna1470@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/anjalikanna1470">
+<img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=anjalikanna1470&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=anjalikanna1470&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👋 Hello, I'm Anjali
 
-```python
-class AnjaliKanna:
-    def __init__(self):
-        self.name = "Kanna Anjali"
-        self.degree = "B.Tech CSE — 3rd Year"
-        self.college = "QIS College of Engineering & Technology"
-        self.location = "India 🇮🇳"
+> **Computer Science student building at the intersection of Web Development, Mobile Applications, Artificial Intelligence and Agentic AI.**
 
-        self.roles = [
-            "Frontend Developer",
-            "Android Developer",
-            "AI Enthusiast",
-            "Agentic AI Explorer"
-        ]
+I'm a **3rd-year B.Tech Computer Science & Engineering student** at **QIS College of Engineering & Technology, Ongole**.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Agentic AI",
-            "Web Development",
-            "Mobile Applications",
-            "IoT",
-            "Machine Learning",
-            "Computer Vision"
-        ]
+I enjoy taking an idea from **concept → architecture → code → working application**.
 
-    def currently_building(self):
-        return [
-            "🤖 AI-powered applications",
-            "⚡ Agentic AI workflows & automation",
-            "📱 Android applications with Kotlin",
-            "🌐 Modern responsive web applications",
-            "🚁 AI + IoT based intelligent systems"
-        ]
+Currently, I'm especially interested in **Agentic AI, RAG systems, AI-powered applications, automation workflows, computer vision and intelligent mobile applications.**
 
-    def philosophy(self):
-        return "Learn. Build. Experiment. Improve. 🚀"
+---
+
+## 🧠 My Developer Identity
+
+<div align="center">
+
+### `BUILD → CONNECT → AUTOMATE → INTELLIGENT`
+
+</div>
+
+```text
+                     ┌─────────────────────┐
+                     │      MY FOCUS        │
+                     └──────────┬──────────┘
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          │                     │                     │
+          ▼                     ▼                     ▼
+     🌐 WEB DEV              📱 MOBILE             🤖 AI
+          │                     │                     │
+      React.js               Kotlin              Machine Learning
+      TypeScript              Android             Computer Vision
+      Tailwind                Firebase             RAG
+      Vite                    APIs                 Embeddings
+          │                     │                     │
+          └─────────────────────┼─────────────────────┘
+                                │
+                                ▼
+                     ⚡ AGENTIC AI & AUTOMATION
+                                │
+                         AI Agents • n8n
+                         Intelligent Workflows
 ```
 
 ---
 
-## 🚀 What I Build
+# ⚡ What I'm Building
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 🌐 Web Development | 📱 Mobile Development |    🤖 AI & ML    |      ⚡ Agentic AI     |
-| :----------------: | :-------------------: | :--------------: | :-------------------: |
-|      React.js      |         Kotlin        | Machine Learning |       AI Agents       |
-|     JavaScript     |        Android        |  Computer Vision |          RAG          |
-|     TypeScript     |        Flutter        |       YOLO       |        AI APIs        |
-|    Tailwind CSS    |        Firebase       |    Embeddings    |     n8n Automation    |
-|        Vite        |          XML          |  Semantic Search | Intelligent Workflows |
+### 🤖 Agentic AI
 
-</div>
+Exploring intelligent systems that can reason, retrieve information, use tools and execute workflows.
 
----
+**Exploring:**
 
-## 🛠️ Tech Stack
+* AI Agents
+* RAG
+* AI APIs
+* Prompt Engineering
+* n8n Automation
+* Intelligent Workflows
 
-<div align="center">
+</td>
 
-### 💻 Languages
+<td width="50%">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+### 🧠 AI Applications
 
-### 🌐 Frontend
+Building practical applications where AI solves real problems instead of being just a chatbot.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+**Exploring:**
+
+* Computer Vision
+* Machine Learning
+* Semantic Search
+* Embeddings
+* Document Intelligence
+* AI-powered Apps
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+Creating responsive and modern interfaces with a focus on interaction and user experience.
+
+**Stack:**
+
+* React.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Vite
+* Bootstrap
+
+</td>
+
+<td width="50%">
 
 ### 📱 Mobile Development
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+Building Android applications capable of communicating with APIs, Firebase and intelligent systems.
 
-### 🤖 AI / ML / Agentic AI
+**Stack:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge\&logo=yolo\&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge\&logo=groq\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+* Kotlin
+* Android
+* XML
+* Firebase
+* Flutter
+* Android Studio
 
-### ⚙️ Backend / Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚁 AI Drone — Real-Time Forest Fire Detection
+## 🚁 AI Drone — Real-Time Forest Fire Detection
 
-**AI + Computer Vision + Drone + IoT**
+**AI • Computer Vision • IoT • Drone • Android**
 
-An intelligent drone-based system designed to detect **forest fires and smoke in real time** using YOLO11 and computer vision.
+An intelligent drone-based system designed for **real-time forest fire and smoke detection using YOLO11**.
 
-**Tech Stack:** Python · YOLO11 · OpenCV · Raspberry Pi · GPS · Firebase · FastAPI · Android · Kotlin
+```text
+Drone Camera
+     ↓
+Raspberry Pi
+     ↓
+YOLO11 + OpenCV
+     ↓
+Fire / Smoke Detection
+     ↓
+GPS Location
+     ↓
+Firebase + FastAPI
+     ↓
+Android Application
+```
 
-**Highlights**
+**Core Technologies**
 
-* 🔥 Real-time fire & smoke detection
-* 🚁 UAV-based monitoring
-* 📍 GPS location tracking
-* 📡 Cloud-based data communication
-* 📱 Android monitoring application
-* 🧠 AI-based visual detection
+`Python` `YOLO11` `OpenCV` `Raspberry Pi` `GPS` `Firebase` `FastAPI` `Kotlin`
 
 ---
 
-### 🐟 Smart Biofloc Monitoring System
+## 🐟 Smart Biofloc Monitoring System
 
-**IoT + Machine Learning + Android**
+**IoT • Machine Learning • Firebase • Android**
 
-An IoT-based system for monitoring important water and environmental parameters in fish biofloc systems.
+A smart monitoring system for collecting and analyzing important environmental parameters in a fish biofloc system.
 
-**Tech Stack:** Arduino Uno · ESP8266 · Sensors · Firebase · Kotlin · Android · Machine Learning
-
-**Highlights**
+**Features**
 
 * 🌡️ Temperature monitoring
-* 🧪 pH & TDS monitoring
-* 💧 Turbidity monitoring
-* 📊 Real-time Firebase data
-* 📈 Historical data visualization
+* 🧪 pH monitoring
+* 💧 TDS & turbidity monitoring
+* 📡 ESP8266 communication
+* ☁️ Firebase real-time database
+* 📊 Historical data
 * 🚨 Abnormal-value alerts
-* 🧠 Good / Bad condition prediction
+* 🧠 ML-based condition prediction
+* 📱 Android monitoring application
 
-[![View Project](https://img.shields.io/badge/🌐%20View%20Project-6C63FF?style=for-the-badge)](https://anjalikanna1470.github.io/Biofloc-IoT-System/)
+**Core Technologies**
 
----
+`Arduino` `ESP8266` `IoT` `Firebase` `Kotlin` `Android` `Machine Learning`
 
-### 📚 Document Retrieval AI
-
-**RAG + Semantic Search + Android**
-
-A mobile document assistant that allows users to upload PDF documents, retrieve relevant content using semantic search, and generate AI-powered answers.
-
-**Tech Stack:** Android · Kotlin · XML · Flask · Sentence Transformers · FAISS · Embeddings · Groq AI
-
-**Highlights**
-
-* 📄 PDF document upload
-* 🔍 Semantic document retrieval
-* 🧠 Vector embeddings
-* ⚡ FAISS similarity search
-* 🤖 Groq-powered AI responses
-* 📱 Android application
-* 📚 Retrieval-Augmented Generation
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-00C6FF?style=for-the-badge)](https://anjalikanna1470.github.io/Biofloc-IoT-System/)
 
 ---
 
-### 🌐 NOVA 3D — Interactive 3D Website
+## 📚 Document Retrieval AI
 
-A futuristic interactive web experience combining modern frontend development with 3D graphics.
+**RAG • Semantic Search • Vector Retrieval • Android**
 
-**Tech Stack:** React.js · Three.js · React Three Fiber · Drei · Framer Motion
+A mobile document assistant that allows users to upload PDF documents, retrieve relevant content using semantic search, and generate AI-powered responses.
 
-**Highlights**
+```text
+PDF
+ ↓
+Text Extraction
+ ↓
+Chunking
+ ↓
+Embeddings
+ ↓
+FAISS Vector Search
+ ↓
+Relevant Context
+ ↓
+Groq AI
+ ↓
+Answer
+```
 
-* 🌌 Interactive 3D environment
-* ✨ Smooth animations
-* 🪟 Glassmorphism UI
-* 🎨 Futuristic visual design
-* 📱 Responsive experience
+**Core Technologies**
 
----
-
-### 🎨 PixelForge AI — AI Image Generator
-
-A modern AI image-generation interface designed around a smooth and interactive user experience.
-
-**Tech Stack:** React.js · TypeScript · Vite · Tailwind CSS
-
-**Highlights**
-
-* 🖼️ AI image generation interface
-* 💳 Credit-based system
-* ⚡ Fast modern UI
-* 🎨 Responsive design
-* 🤖 AI-focused user experience
+`Kotlin` `Android` `Flask` `Sentence Transformers` `FAISS` `Embeddings` `Groq`
 
 ---
 
-### 📊 NOVA Analytics — SaaS Dashboard
+# 🌐 Modern Web Projects
 
-A modern analytics dashboard built for exploring SaaS-style data visualization and interactive UI patterns.
+### 🌌 NOVA 3D
 
-**Tech Stack:** React 18 · TypeScript · Tailwind CSS · Recharts · Framer Motion · Lucide React
+Interactive 3D website built around a futuristic visual experience.
 
-**Highlights**
-
-* 📊 Interactive charts
-* 📈 Analytics visualization
-* 🌓 Modern dashboard UI
-* ✨ Smooth animations
-* 📱 Responsive layout
+`React.js` `Three.js` `React Three Fiber` `Drei` `Framer Motion`
 
 ---
 
-### 🛍️ AURA Studio — E-Commerce Product Gallery
+### 🎨 PixelForge AI
 
-A modern e-commerce product browsing experience focused on clean UI, animations and responsive design.
+Modern AI image generator interface with a credit-based user experience.
 
-**Tech Stack:** React · Vite · React Router · Tailwind CSS · Framer Motion · LocalStorage
+`React.js` `TypeScript` `Vite` `Tailwind CSS`
 
-**Highlights**
+---
 
-* 🛒 Product gallery
-* 🔎 Product browsing
-* 💾 LocalStorage support
-* 💰 INR currency formatting
-* ✨ Animated interactions
-* 📱 Responsive design
+### 📊 NOVA Analytics
+
+Modern SaaS analytics dashboard with interactive charts and responsive UI.
+
+`React` `TypeScript` `Tailwind CSS` `Recharts` `Framer Motion`
+
+---
+
+### 🛍️ AURA Studio
+
+Modern e-commerce product gallery with routing, animations and local storage.
+
+`React` `Vite` `React Router` `Tailwind CSS` `Framer Motion`
 
 ---
 
 ### 🩸 Blood Bridge
 
-A responsive web application designed around blood donor and recipient interaction.
+Responsive web application focused on connecting blood donors and recipients.
 
-**Tech Stack:** HTML · CSS · JavaScript · Responsive Design
+`HTML` `CSS` `JavaScript`
 
-[![Live Project](https://img.shields.io/badge/🌐%20Live%20Project-E34F26?style=for-the-badge)](https://anjalikanna1470.github.io/Blood-Bridge/)
+[![Live](https://img.shields.io/badge/LIVE%20PROJECT-6C63FF?style=for-the-badge)](https://anjalikanna1470.github.io/Blood-Bridge/)
 
 ---
 
 ### 🎓 College Website
 
-A responsive college website created using core frontend technologies and Bootstrap.
+Responsive college website developed using core frontend technologies and Bootstrap.
 
-**Tech Stack:** HTML · CSS · JavaScript · Bootstrap
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
-[![Live Project](https://img.shields.io/badge/🌐%20Live%20Project-2575FC?style=for-the-badge)](https://anjalikanna1470.github.io/College-Website/)
+[![Live](https://img.shields.io/badge/LIVE%20PROJECT-2575FC?style=for-the-badge)](https://anjalikanna1470.github.io/College-Website/)
 
 ---
 
-## ⚡ Agentic AI Journey
+# 🛠️ Technology Universe
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,python,java,kotlin,js,ts" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,bootstrap" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase" />
+
+### Backend & AI
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,firebase" />
+
+<br>
+
+![YOLO](https://img.shields.io/badge/YOLO11-111F68?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-6C63FF?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-AI-F55036?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge)
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
+
+</div>
+
+---
+
+# ⚡ Agentic AI Roadmap
 
 <div align="center">
 
 ```text
-                    🤖 AGENTIC AI
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-       AI APIs          RAG        Automation
-          │              │              │
-          ▼              ▼              ▼
-     AI Agents      Vector Search       n8n
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-               Intelligent Applications
+                    ┌───────────────┐
+                    │   AI MODELS   │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │   AI AGENTS   │
+                    └───────┬───────┘
+                            ↓
+                ┌──────────────────────┐
+                │   TOOLS + APIs       │
+                └───────────┬──────────┘
+                            ↓
+                    ┌───────────────┐
+                    │      RAG      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │  AUTOMATION   │
+                    │      n8n      │
+                    └───────┬───────┘
+                            ↓
+                 🤖 INTELLIGENT APPS
 ```
 
 </div>
 
-I'm currently exploring how **Agentic AI can move beyond simple chatbot interactions** and become part of real-world applications, automation workflows, retrieval systems and intelligent decision-making systems.
+### Current Focus
+
+`AI Agents` · `RAG` · `Vector Search` · `AI APIs` · `n8n` · `Prompt Engineering` · `Automation`
 
 ---
 
-## 📱 Android Development
+# 📈 My Learning Journey
 
-Building Android applications using **Kotlin, XML, Firebase and Android Studio**, with a focus on connecting mobile applications to real-world systems.
-
-```text
-Kotlin
-  ↓
-Android UI
-  ↓
-Firebase / APIs
-  ↓
-Real-Time Data
-  ↓
-AI-Powered Features
-```
+| Phase | Focus                                                 |
+| ----- | ----------------------------------------------------- |
+| `01`  | HTML • CSS • JavaScript                               |
+| `02`  | React • TypeScript • Tailwind                         |
+| `03`  | Kotlin • Android • Firebase                           |
+| `04`  | Python • Flask • FastAPI                              |
+| `05`  | Machine Learning • Computer Vision                    |
+| `06`  | Embeddings • FAISS • RAG                              |
+| `07`  | AI APIs • n8n • Automation                            |
+| `08`  | **Agentic AI • AI Agents • Intelligent Applications** |
 
 ---
 
-## 📚 Currently Learning
+# 📚 Certifications
 
 <div align="center">
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-2575FC?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00C6FF?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-7B2FF7?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-00A86B?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python%20Full%20Stack-EduSkills-3776AB?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS%20Basic-HackerRank-1572B6?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web%20Development-iDigitalPreneur-6C63FF?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%20Tools%20%26%20ChatGPT-be10X-00C6FF?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Development Journey
-
-| Stage         | Focus                                 |
-| ------------- | ------------------------------------- |
-| 🌐 Foundation | HTML · CSS · JavaScript               |
-| ⚛️ Modern Web | React · TypeScript · Tailwind         |
-| 📱 Mobile     | Kotlin · Android · Flutter            |
-| ☁️ Backend    | Firebase · Flask · FastAPI            |
-| 🧠 AI         | ML · Computer Vision · Embeddings     |
-| 🔎 RAG        | Semantic Search · FAISS · Document AI |
-| ⚡ Automation  | n8n · APIs · AI Workflows             |
-| 🤖 Next       | Agentic AI · Intelligent Applications |
-
----
-
-## 🏆 Certifications & Learning
-
-* 🐍 Python Full Stack Development Internship — EduSkills
-* 🎨 CSS Basic — HackerRank
-* 🌐 Web Development — iDigitalPreneur
-* 🤖 AI Tools & ChatGPT Workshop — be10X
-
----
-
-## 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anjalikanna1470\&theme=tokyonight\&no-frame=true\&no-bg=false\&margin-w=6\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjalikanna1470\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjalikanna1470&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anjalikanna1470&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikanna1470&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikanna1470&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
@@ -399,37 +424,59 @@ AI-Powered Features
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-[![Anjali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjalikanna1470\&theme=tokyo-night\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anjali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjalikanna1470\&theme=tokyo-night\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🌟 My Portfolio
+# 🎯 Currently Learning
 
 <div align="center">
 
-<a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
+`🤖 Agentic AI`
 
-<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+`🧠 AI Agents`
 
-</a>
+`🔎 RAG`
 
-<br><br>
+`📚 Vector Databases`
 
-**Web Development • Android • AI • Agentic AI • IoT**
+`⚡ AI Automation`
+
+`🧩 System Design`
+
+`📐 DSA`
+
+`👁️ Computer Vision`
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 🌟 Beyond Code
+
+```text
+💡 Curious about technology
+🛠️ Learn by building
+🔬 Experiment with new ideas
+📚 Continuously improving
+🚀 Turning concepts into working systems
+```
+
+---
+
+# 🤝 Let's Build Something
 
 <div align="center">
+
+I'm interested in **AI, Agentic AI, Web Development, Android, IoT and innovative software projects.**
+
+<br>
 
 <a href="https://github.com/anjalikanna1470">
 <img src="https://img.shields.io/badge/GitHub-@anjalikanna1470-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -440,7 +487,13 @@ AI-Powered Features
 </a>
 
 <a href="mailto:anjalikanna1470@gmail.com">
-<img src="https://img.shields.io/badge/Email-anjalikanna1470%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6C63FF?style=for-the-badge"/>
 </a>
 
 </div>
@@ -449,16 +502,16 @@ AI-Powered Features
 
 <div align="center">
 
-### 💫 Build. Learn. Automate. Innovate.
+### `BUILDING TODAY. ENGINEERING TOMORROW. 🤖`
 
-*"Turning ideas into intelligent applications, one project at a time."*
+*"Learn continuously. Build fearlessly. Let the work speak."*
 
 <br>
 
-⭐ **Open to learning, collaboration, and building impactful technology** ⭐
+⭐ **Open to collaboration, learning and innovative projects** ⭐
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=120&section=footer" width="100%"/>
 
 </div>
