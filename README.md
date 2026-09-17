@@ -1,89 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,45:302b63,75:2575fc,100:00c6ff&height=230&section=header&text=KANNA%20ANJALI&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20AGENTIC%20AI%20%7C%20WEB%20%7C%20ANDROID&descAlignY=62&descColor=daf5ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:6a11cb,100:00c6ff&height=230&section=header&text=KANNA%20ANJALI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20AGENTIC%20AI%20%7C%20WEB%20%7C%20ANDROID&descAlignY=61&descColor=d9f4ff&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=21\&pause=1100\&color=00C6FF\&center=true\&vCenter=true\&width=850\&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Agentic+AI+%26+Intelligent+Automation+%E2%9A%A1;Frontend+%7C+Android+%7C+Backend+%7C+AI;RAG+%7C+Computer+Vision+%7C+IoT;Learn+%E2%80%A2+Build+%E2%80%A2+Automate+%E2%80%A2+Innovate+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1100\&color=00C6FF\&center=true\&vCenter=true\&width=850\&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Agentic+AI+%26+Intelligent+Automation+%E2%9A%A1;Frontend+%7C+Android+%7C+Backend+%7C+AI;RAG+%7C+Computer+Vision+%7C+IoT;Turning+Ideas+Into+Working+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
 <a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Portfolio-6C63FF?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/anjalikanna1470">
-<img src="https://img.shields.io/badge/LINKEDIN-2575FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2575FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:anjalikanna1470@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/anjalikanna1470">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=anjalikanna1470&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=anjalikanna1470&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+# 👋 About Me
+
+<table>
+<tr>
+<td width="42%" align="center">
+
+<img src="./assets/anjali-3d-avatar.png" width="330"/>
+
+<br>
+
+### `3D Developer Avatar`
+
+**KANNA ANJALI**
+
+`AI • Web • Android • Agentic AI`
+
+</td>
+
+<td width="58%">
+
+### Hi, I'm Anjali 👋
+
+I'm a **3rd-year B.Tech Computer Science & Engineering student** at **QIS College of Engineering & Technology, Ongole**.
+
+I'm passionate about building applications that combine **modern interfaces, mobile development, artificial intelligence and automation**.
+
+My current direction is strongly focused on **Agentic AI** — exploring how AI agents, RAG, APIs and automation can work together to create intelligent applications.
+
+### 🔭 Currently Building
+
+* 🤖 AI-powered applications
+* ⚡ Agentic AI workflows
+* 🔎 RAG & semantic retrieval systems
+* 📱 Android applications using Kotlin
+* 🌐 Modern React applications
+* 🚁 AI + IoT systems
+* 🧠 Computer Vision applications
+
+### 🎯 Career Direction
+
+**Software Development → AI Engineering → Agentic AI**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 My Developer DNA
+
+<div align="center">
+
+```text
+                 ╔══════════════════════╗
+                 ║      KANNA ANJALI    ║
+                 ╚══════════╦═══════════╝
+                            ║
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+     🌐 WEB               📱 MOBILE            🤖 AI
+        │                   │                   │
+     React.js             Kotlin             ML / CV
+     TypeScript           Android            RAG
+     Tailwind             Firebase           Embeddings
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            ▼
+                     ⚡ AGENTIC AI
+                            │
+                     AI Agents + APIs
+                            │
+                         n8n
+                            │
+                            ▼
+                  🧠 INTELLIGENT SYSTEMS
+```
+
+</div>
+
+---
+
+# 🌌 3D Technology Universe
 
 <div align="center">
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center">
 
-<br>
+### 🌐
 
-### 👋 Hi, I'm Anjali!
+**WEB**
 
-I'm a **3rd-year B.Tech Computer Science & Engineering student** passionate about building practical software and exploring emerging technologies.
+`React`
 
-My development journey spans:
+`TypeScript`
 
-```text
-🌐 Web Development
-        ↓
-📱 Android Development
-        ↓
-🤖 Artificial Intelligence
-        ↓
-🔎 RAG & Semantic Search
-        ↓
-⚡ Automation
-        ↓
-🧠 Agentic AI
-```
+`Tailwind`
 
-### 🎯 What I Love Building
-
-* 🌐 Modern & responsive web applications
-* 📱 Android applications using Kotlin
-* 🤖 AI-powered applications
-* 🔎 RAG & document intelligence systems
-* 👁️ Computer vision solutions
-* 🌱 IoT-based intelligent systems
-* ⚡ AI automation workflows
-* 🧠 Agentic AI applications
-
-### 🚀 Current Focus
-
-**Agentic AI • RAG • AI Agents • Automation • Computer Vision**
-
-<br>
+`Vite`
 
 </td>
 
-<td width="45%" align="center">
+<td align="center">
 
-<img src="assets/anjali-3d-avatar.png" width="100%" alt="Kanna Anjali 3D Developer Avatar"/>
+### 📱
+
+**MOBILE**
+
+`Kotlin`
+
+`Android`
+
+`Flutter`
+
+`Firebase`
+
+</td>
+
+<td align="center">
+
+### 🤖
+
+**AI**
+
+`Python`
+
+`YOLO`
+
+`OpenCV`
+
+`RAG`
+
+</td>
+
+<td align="center">
+
+### ⚡
+
+**AUTOMATION**
+
+`n8n`
+
+`AI APIs`
+
+`Agents`
+
+`Workflows`
 
 </td>
 </tr>
@@ -93,293 +189,198 @@ My development journey spans:
 
 ---
 
-# 🌌 My Developer Universe
+# 📊 Skill Distribution
 
 <div align="center">
 
-```text
-                         ┌────────────────────┐
-                         │     KANNA ANJALI   │
-                         │    AI DEVELOPER    │
-                         └─────────┬──────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-              ▼                    ▼                    ▼
-          🌐 WEB                📱 MOBILE             🤖 AI
-              │                    │                    │
-         React.js               Kotlin             Machine Learning
-         TypeScript             Android            Computer Vision
-         Tailwind               Firebase            RAG
-         Vite                   APIs                Embeddings
-              │                    │                    │
-              └────────────────────┼────────────────────┘
-                                   │
-                                   ▼
-                            ⚡ AUTOMATION
-                                   │
-                                   ▼
-                           🧠 AGENTIC AI
-                                   │
-                                   ▼
-                     🚀 INTELLIGENT APPLICATIONS
-```
+| Area                       | Focus                  |
+| :------------------------- | :--------------------- |
+| 🌐 Web Development         | `██████████████████░░` |
+| 📱 Android Development     | `████████████████░░░░` |
+| 🤖 Artificial Intelligence | `███████████████░░░░░` |
+| ⚡ Agentic AI               | `██████████████░░░░░░` |
+| 🧠 Machine Learning        | `████████████░░░░░░░░` |
+| 🔎 RAG / Semantic Search   | `████████████░░░░░░░░` |
+| 🔧 IoT                     | `███████████░░░░░░░░░` |
 
 </div>
 
----
-
-# ⚡ What I'm Exploring
-
-<div align="center">
-
-|   🤖 Agentic AI  |     🔎 RAG    | 👁️ Computer Vision |  ⚡ Automation |
-| :--------------: | :-----------: | :-----------------: | :-----------: |
-|     AI Agents    |   Embeddings  |         YOLO        |      n8n      |
-|   Tool Calling   | Vector Search |        OpenCV       |      APIs     |
-|   AI Workflows   |     FAISS     |   Image Detection   |   Workflows   |
-| Intelligent Apps |  Document AI  | Real-Time Detection | AI Automation |
-
-</div>
+> These bars represent **areas I'm actively developing**, not formal proficiency scores.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚁 AI Drone — Real-Time Forest Fire Detection
-
 <div align="center">
-
-### `AI × COMPUTER VISION × DRONE × IoT`
-
-</div>
-
-An intelligent drone-based system designed for **real-time forest fire and smoke detection using YOLO11**.
-
-```text
-🚁 Drone Camera
-       ↓
-🍓 Raspberry Pi
-       ↓
-👁️ YOLO11 + OpenCV
-       ↓
-🔥 Fire / Smoke Detection
-       ↓
-📍 GPS Location
-       ↓
-☁️ Firebase + FastAPI
-       ↓
-📱 Android Application
-```
-
-### 🔧 Technologies
-
-`Python` `YOLO11` `OpenCV` `Raspberry Pi` `GPS` `Firebase` `FastAPI` `Kotlin`
-
-### ✨ Core Features
-
-* 🔥 Real-time fire detection
-* 💨 Smoke detection
-* 📍 GPS-based location tracking
-* 📡 Cloud communication
-* 📱 Android monitoring application
-* 🧠 AI-based visual analysis
-
----
-
-## 🐟 Smart Biofloc Monitoring System
-
-<div align="center">
-
-### `IoT × MACHINE LEARNING × ANDROID`
-
-</div>
-
-A smart monitoring system designed to continuously monitor important environmental parameters in fish biofloc systems.
-
-### 📡 System Flow
-
-```text
-Sensors
-  ↓
-Arduino Uno
-  ↓
-ESP8266
-  ↓
-Firebase Realtime Database
-  ↓
-Android Application
-  ↓
-ML Prediction
-```
-
-### 📊 Monitoring
-
-| Parameter          | Purpose                      |
-| ------------------ | ---------------------------- |
-| 🌡️ Temperature    | Water/environment monitoring |
-| 🧪 pH              | Water quality                |
-| 💧 TDS             | Dissolved solids             |
-| 🌫️ Turbidity      | Water clarity                |
-| 🌬️ Gas Parameters | Environmental monitoring     |
-
-### ✨ Features
-
-* Real-time sensor monitoring
-* Firebase data synchronization
-* Historical data
-* Charts & visualization
-* Abnormal-value alerts
-* ML-based Good / Bad prediction
-* Android monitoring application
-
-[![View Project](https://img.shields.io/badge/🌐%20VIEW%20PROJECT-00C6FF?style=for-the-badge)](https://anjalikanna1470.github.io/Biofloc-IoT-System/)
-
----
-
-# 📚 Document Retrieval AI
-
-<div align="center">
-
-### `RAG × SEMANTIC SEARCH × VECTOR RETRIEVAL × ANDROID`
-
-</div>
-
-A mobile document assistant that allows users to upload PDFs, retrieve relevant information using semantic search, and generate AI-powered responses.
-
-```text
-📄 PDF
- ↓
-📝 Text Extraction
- ↓
-✂️ Chunking
- ↓
-🧠 Embeddings
- ↓
-🔎 FAISS Search
- ↓
-📚 Relevant Context
- ↓
-🤖 Groq AI
- ↓
-💬 Answer
-```
-
-### 🔧 Technologies
-
-`Kotlin` `Android` `XML` `Flask` `Sentence Transformers` `FAISS` `Embeddings` `Groq`
-
----
-
-# 🌐 Web Development Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
-## 🌌 NOVA 3D
+## 🚁 AI Drone
 
-Interactive futuristic 3D web experience.
+### Real-Time Forest Fire Detection
 
-**Stack**
+**AI + Computer Vision + Drone + IoT**
 
-`React.js`
-`Three.js`
-`React Three Fiber`
-`Drei`
-`Framer Motion`
+YOLO11-powered forest fire and smoke detection system designed for drone-based monitoring.
+
+`Python` `YOLO11` `OpenCV`
+
+`Raspberry Pi` `GPS` `Firebase`
+
+`FastAPI` `Android`
 
 </td>
 
 <td width="50%">
 
-## 🎨 PixelForge AI
+## 🐟 Smart Biofloc
 
-Modern AI image generator interface.
+### IoT Monitoring System
 
-**Stack**
+Real-time monitoring of important biofloc environmental parameters with cloud connectivity and ML-based prediction.
 
-`React.js`
-`TypeScript`
-`Vite`
-`Tailwind CSS`
+`Arduino` `ESP8266` `Firebase`
+
+`Sensors` `Kotlin` `Android`
+
+`Machine Learning`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-## 📊 NOVA Analytics
+## 📚 Document Retrieval AI
 
-SaaS-style analytics dashboard with interactive visualization.
+### RAG + Semantic Search
 
-**Stack**
+Mobile document assistant capable of retrieving relevant PDF content and generating AI-powered answers.
 
-`React`
-`TypeScript`
-`Tailwind CSS`
-`Recharts`
-`Framer Motion`
+`Kotlin` `Flask` `FAISS`
+
+`Sentence Transformers`
+
+`Embeddings` `Groq`
 
 </td>
 
 <td width="50%">
 
-## 🛍️ AURA Studio
+## 🤖 Agentic AI Apps
 
-Modern e-commerce product gallery.
+### Intelligent Automation
 
-**Stack**
+Exploring AI agents, APIs, RAG and n8n to create intelligent applications and automated workflows.
 
-`React`
-`Vite`
-`React Router`
-`Tailwind CSS`
-`Framer Motion`
+`Agentic AI` `RAG`
 
-</td>
-</tr>
+`AI APIs` `n8n`
 
-<tr>
-<td width="50%">
-
-## 🩸 Blood Bridge
-
-Responsive blood donor/recipient web application.
-
-**Stack**
-
-`HTML`
-`CSS`
-`JavaScript`
-
-[![Live](https://img.shields.io/badge/LIVE-6C63FF?style=for-the-badge)](https://anjalikanna1470.github.io/Blood-Bridge/)
+`Prompt Engineering`
 
 </td>
 
-<td width="50%">
-
-## 🎓 College Website
-
-Responsive college website.
-
-**Stack**
-
-`HTML`
-`CSS`
-`JavaScript`
-`Bootstrap`
-
-[![Live](https://img.shields.io/badge/LIVE-2575FC?style=for-the-badge)](https://anjalikanna1470.github.io/College-Website/)
-
-</td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-# 🧩 Technology Stack
+# 🌐 Web Project Collection
+
+<div align="center">
+
+| Project                | Technologies                             | Focus                   |
+| :--------------------- | :--------------------------------------- | :---------------------- |
+| 🌌 **NOVA 3D**         | React · Three.js · R3F · Framer Motion   | Interactive 3D Web      |
+| 🎨 **PixelForge AI**   | React · TypeScript · Vite · Tailwind     | AI Image Generator UI   |
+| 📊 **NOVA Analytics**  | React · TypeScript · Recharts · Tailwind | SaaS Analytics          |
+| 🛍️ **AURA Studio**    | React · Vite · Router · Tailwind         | E-Commerce UI           |
+| 🩸 **Blood Bridge**    | HTML · CSS · JavaScript                  | Blood Donation Platform |
+| 🎓 **College Website** | HTML · CSS · JS · Bootstrap              | Responsive Web          |
+
+</div>
+
+---
+
+# 🔎 RAG Architecture
+
+<div align="center">
+
+```text
+                📄 USER DOCUMENT
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  PDF EXTRACTION │
+              └────────┬────────┘
+                       │
+                       ▼
+                ✂️ CHUNKING
+                       │
+                       ▼
+             🧠 EMBEDDINGS
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  VECTOR SEARCH  │
+              │      FAISS      │
+              └────────┬────────┘
+                       │
+                       ▼
+               🔎 TOP CONTEXT
+                       │
+                       ▼
+                 🤖 GROQ AI
+                       │
+                       ▼
+                💬 ANSWER
+```
+
+</div>
+
+---
+
+# ⚡ Agentic AI Architecture
+
+<div align="center">
+
+```text
+                         🤖 AI MODEL
+                             │
+                             ▼
+                       🧠 AI AGENT
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+           🔎 RAG          🌐 APIs        🛠️ TOOLS
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                       ⚡ n8n WORKFLOW
+                             │
+                             ▼
+                    🔄 AUTOMATION LOOP
+                             │
+                             ▼
+                  🧠 INTELLIGENT ACTION
+                             │
+                             ▼
+                     🚀 REAL APPLICATION
+```
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -387,128 +388,121 @@ Responsive college website.
 
 <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,js,ts" />
 
-<br><br>
-
-### 🌐 Frontend
+### 🌐 Web
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,bootstrap" />
-
-<br><br>
 
 ### 📱 Mobile
 
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase" />
 
-<br><br>
+### ⚙️ Backend
 
-### ⚙️ Backend & Development
+<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,docker" />
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,firebase,git,github,vscode,docker" />
-
-<br><br>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,opencv" />
-
-<br><br>
+<br>
 
 ![YOLO11](https://img.shields.io/badge/YOLO11-111F68?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-6C63FF?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-AI-F55036?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-6C63FF?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
 
 </div>
 
 ---
 
-# 📊 Technology Focus
+# 📈 Development Growth
+
+```text
+Web Development
+       │
+       ▼
+React + TypeScript
+       │
+       ▼
+Android + Kotlin
+       │
+       ▼
+Python + Backend
+       │
+       ▼
+Machine Learning
+       │
+       ▼
+Computer Vision
+       │
+       ▼
+RAG + Vector Search
+       │
+       ▼
+AI APIs
+       │
+       ▼
+n8n Automation
+       │
+       ▼
+           🤖 AGENTIC AI
+```
+
+---
+
+# 📊 My Development Areas
 
 <div align="center">
 
 ```text
-                     MY DEVELOPMENT FOCUS
-
-              ┌───────────────────────────┐
-              │       AGENTIC AI          │
-              └─────────────┬─────────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-             RAG           AI           TOOLS
-              │             │             │
-              ▼             ▼             ▼
-         Vector Search   AI APIs       n8n
-         Embeddings      Agents        APIs
-              │             │             │
-              └─────────────┼─────────────┘
-                            │
-                            ▼
-                    INTELLIGENT APPS
+                    MY DEVELOPMENT
+                          │
+       ┌──────────────────┼──────────────────┐
+       │                  │                  │
+       ▼                  ▼                  ▼
+     BUILD              LEARN             EXPLORE
+       │                  │                  │
+   React.js            DSA                Agents
+   Kotlin              Python             RAG
+   Firebase            ML                 AI APIs
+   FastAPI             CV                 Automation
+       │                  │                  │
+       └──────────────────┼──────────────────┘
+                          ▼
+                   REAL PROJECTS 🚀
 ```
 
 </div>
 
 ---
 
-# 🧠 My AI / Agentic AI Journey
+# 📚 Certifications
 
 <div align="center">
 
-```text
-             Traditional Applications
-                       │
-                       ▼
-                AI-Powered Apps
-                       │
-                       ▼
-                  RAG Systems
-                       │
-                       ▼
-                 AI + Tools
-                       │
-                       ▼
-                  AI Agents
-                       │
-                       ▼
-             Agentic Workflows
-                       │
-                       ▼
-          🧠 Intelligent Applications
-```
+| 🎓 Certification                         | 🏢 Platform         |
+| :--------------------------------------- | :------------------ |
+| Python Full Stack Development Internship | **EduSkills**       |
+| CSS Basic                                | **HackerRank**      |
+| Web Development                          | **iDigitalPreneur** |
+| AI Tools & ChatGPT Workshop              | **be10X**           |
 
 </div>
 
-### Current Exploration
+---
 
-`AI Agents` • `RAG` • `Vector Search` • `Embeddings` • `Tool Calling` • `AI APIs` • `n8n` • `Automation`
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjalikanna1470\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-# 📱 Android Development
-
-```text
-        Kotlin
-          │
-          ▼
-      Android UI
-          │
-          ▼
-     Firebase / APIs
-          │
-          ▼
-      Real-Time Data
-          │
-          ▼
-       AI Features
-          │
-          ▼
-   Intelligent Mobile Apps
-```
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -530,86 +524,55 @@ Responsive college website.
 
 ---
 
-# 📊 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-[![Anjali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjalikanna1470\&theme=tokyo-night\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anjali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjalikanna1470\&theme=tokyo-night\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anjalikanna1470\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-# 📚 Certifications
-
-<div align="center">
-
-| Certification                               | Platform        |
-| ------------------------------------------- | --------------- |
-| 🐍 Python Full Stack Development Internship | EduSkills       |
-| 🎨 CSS Basic                                | HackerRank      |
-| 🌐 Web Development                          | iDigitalPreneur |
-| 🤖 AI Tools & ChatGPT Workshop              | be10X           |
-
-</div>
-
----
-
-# 🎯 Learning Roadmap
+# 🗺️ Developer Journey
 
 <div align="center">
 
 ```text
-        ┌─────────────────┐
-        │  PROGRAMMING    │
-        │  C • Python     │
-        │  Java • Kotlin  │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │   WEB & MOBILE  │
-        │ React • Android │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │       AI        │
-        │ ML • CV • APIs  │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │       RAG       │
-        │ FAISS • Search  │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │   AUTOMATION    │
-        │      n8n        │
-        └────────┬────────┘
-                 ↓
-        ┌─────────────────┐
-        │   AGENTIC AI    │
-        │ AI Agents       │
-        │ Tool Calling    │
-        └────────┬────────┘
-                 ↓
-        🚀 INTELLIGENT SYSTEMS
+2024
+ │
+ ├── 🌐 Web Development
+ │
+ ▼
+2025
+ │
+ ├── 📱 Android Development
+ ├── ☁️ Firebase
+ ├── 🧠 Python
+ │
+ ▼
+2026
+ │
+ ├── 🤖 Machine Learning
+ ├── 👁️ Computer Vision
+ ├── 🔎 RAG
+ ├── 📚 Semantic Search
+ ├── ⚡ n8n Automation
+ │
+ ▼
+NOW
+ │
+ └──────────────► 🤖 AGENTIC AI
+                         │
+                         ▼
+                 INTELLIGENT SYSTEMS
 ```
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 Currently Learning
 
 <div align="center">
 
@@ -618,51 +581,57 @@ Responsive college website.
 ![RAG](https://img.shields.io/badge/RAG-00C6FF?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-7B2FF7?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/AI_Automation-EA4B71?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-00A86B?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-00A86B?style=for-the-badge)
 
 </div>
 
 ---
 
-# 💫 Developer Philosophy
+# 💡 How I Think
 
 <div align="center">
 
 ```text
-              LEARN
-                ↓
-              BUILD
-                ↓
-            EXPERIMENT
-                ↓
-             IMPROVE
-                ↓
-             AUTOMATE
-                ↓
-             INNOVATE
+          💡 IDEA
+             │
+             ▼
+        🔍 UNDERSTAND
+             │
+             ▼
+        🏗️ DESIGN
+             │
+             ▼
+         💻 BUILD
+             │
+             ▼
+         🧪 TEST
+             │
+             ▼
+        🚀 DEPLOY
+             │
+             ▼
+       📈 IMPROVE
+             │
+             └──────────► 🔁
 ```
-
-### "Turning ideas into intelligent applications, one project at a time."
 
 </div>
 
 ---
 
-# 🌟 My Portfolio
+# 🌟 Beyond Code
 
 <div align="center">
 
-<a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
+|   💻   |    🧠   |     🚀     |    🌌    |
+| :----: | :-----: | :--------: | :------: |
+|  Build |  Learn  | Experiment |   Dream  |
+| Create | Explore |   Improve  | Innovate |
 
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<br>
 
-</a>
-
-<br><br>
-
-`Web Development` • `Android` • `AI` • `Agentic AI` • `IoT`
+**I believe the best way to learn technology is to build with it.**
 
 </div>
 
@@ -681,7 +650,15 @@ Responsive college website.
 </a>
 
 <a href="mailto:anjalikanna1470@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-anjalikanna1470%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://anjalikanna1470.github.io/Personal_Portfolio_Website/">
+
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-6C63FF?style=for-the-badge"/>
+
 </a>
 
 </div>
@@ -690,18 +667,16 @@ Responsive college website.
 
 <div align="center">
 
-<br>
+### `BUILD • LEARN • AUTOMATE • INNOVATE`
 
-### `BUILDING TODAY. ENGINEERING TOMORROW. 🤖`
-
-**Web • Mobile • AI • Agentic AI • IoT**
+*"Turning ideas into intelligent applications, one project at a time."*
 
 <br>
 
-⭐ **Open to learning, collaboration and innovative projects** ⭐
+⭐ **Open to collaboration, learning and innovative projects** ⭐
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,45:302b63,75:2575fc,100:00c6ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:6a11cb,100:00c6ff&height=120&section=footer" width="100%"/>
 
 </div>
